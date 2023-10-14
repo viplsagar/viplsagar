@@ -2,7 +2,7 @@
 - 👀 I’m interested in Exploring new Tech
 - 🌱 I’m currently learning Swift, Nextjs
 - 💞️ I’m looking to collaborate on Augmented Reality
-- 📫 Contact Me
+- 📫 Contact Me @ vitplsc@gmail.com
 
 <!---
 viplsagar/viplsagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
